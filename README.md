@@ -1,18 +1,28 @@
 <div align="center">
 
-<img src="YOUR_IMAGE_LINK_HERE" alt="Donia Rabea - Programmer & Data Analyst" width="80%"/>
+<img src="./profile-banner.png" alt="Donia Rabea - Programmer & Data Analyst" width="100%"/>
 
 <br>
 
-# Hi, I'm Donia Rabea 👋
+# Donia Rabea 👋
 
-### 💻 Programmer | 📊 Data Analyst
+### 💻 Programmer | 📊 Data Analyst | 📣 PR Member
 
 **Computer Science Student** passionate about **Data Analysis, Programming, and Data Visualization**.
 
 I enjoy working with data, creating dashboards, finding insights, and solving problems using technology.
 
 <br>
+
+
+
+<a href="https://www.linkedin.com/in/donia-rabea-04668837a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:doniara555@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=doniarabea\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
@@ -51,10 +61,29 @@ I enjoy working with data, creating dashboards, finding insights, and solving pr
 * 🗄️ Learning and practicing **SQL** and database concepts
 * 💻 Building my programming and problem-solving skills with **C**
 * 🚀 Always learning and working on new projects
+* 📣 PR Member with an interest in communication and teamwork
+
+<hr>
+🤝 Soft Skills
+
+- Communication
+- Teamwork
+- Problem Solving
+- Presentation
+- Leadership
+- Public Relations
+
 
 <hr>
 
-## 📚 My Data Analysis Skills
+## 🌐 Connect with Me
+
+<a href="https://www.linkedin.com/in/donia-rabea-04668837a/">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="35"/>
+</a>
+
+<hr>
+📚 My Data Analysis Skills
 
 | Skill           | Focus                                               |
 | --------------- | --------------------------------------------------- |
